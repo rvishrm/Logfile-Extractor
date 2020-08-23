@@ -26,7 +26,7 @@ By using command: 
 
  Here, “logfile1.txt” is the first file name from where we have to start scanning files.
  
- <img src="C:\Users\hp\Desktop\console_application\result.png">
+ <img src="C:\Users\hp\Desktop\console_application\result.png">  
 
 
 
